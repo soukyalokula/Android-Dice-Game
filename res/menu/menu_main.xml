@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.niu.students.z1776873.crapsassignment2.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/help"
+        android:title="Help for Craps" />
+    <item
+        android:id="@+id/newGame"
+        android:title="Dicey-A new game" />
+    <item
+        android:id="@+id/HelpDicey"
+        android:title="Help for Dicey"/>
+</menu>

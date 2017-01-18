@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CrapsAssignment2</string>
+    <string name="action_settings">Settings</string>
+    <string name="helpDescription">Craps is a game of chance where a player (the shooter) will roll 2
+        six-sided dice. The sum of the die will determine whether the player
+(and anyone that has placed a bet) wins immediately, loses
+immediately, or if the game continues. If the sum of the first roll
+of the die is equal to 7 or 11, the player wins immediately. If the
+sum of the first roll of the die is equal to 2, 3, or 12, the player
+has rolled "craps" and loses immediately. If the sum of the first
+roll of the die is equal to 4, 5, 6, 8, 9, or 10, the game will
+continue with the sum becoming the "point". The object of the game is
+now for the player to continue rolling the die until they either roll
+a sum that equals the point or they roll a 7. If the player "makes their point", they win. If they roll a 7, they lose.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="helpDicey">Dicey is a dice game of chance where a player can roll 3 times.
+        The goal of the game is to get a total of 20 points in 3 rolls.
+        If the player gets a total of 20 or more he wins else he loses.The player can restart the game at any point.</string>
+</resources>
